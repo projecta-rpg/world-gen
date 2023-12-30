@@ -1,0 +1,4 @@
+name: DimensionalDescent
+version: '${project.version}'
+main: me.kyuri.dimensionaldescent.DimensionalDescent
+api-version: '1.20'
